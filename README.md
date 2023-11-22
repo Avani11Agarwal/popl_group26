@@ -114,11 +114,12 @@ from pyro.infer import SVI
 from pyro.optim import Adam
 
 pyro.get_param_store().clear()
+```
 
 5) Using the concept of mean square error and collectivity
 
 Our code snippet:
-
+```
 model.load_weights('testtest.hdf5')
 
 plt.plot(pyro.param('guide_mean_weight').data.numpy()[10])
