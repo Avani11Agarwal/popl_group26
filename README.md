@@ -3,7 +3,7 @@ Financial forecasting using Pyro
 
 
 ## Problem Statement:
-We are trying to predict the future closing prices of Ethereum for the next 30 days based on the previous 2.5 years closing prices. Traditional financial forecasting methods tend to overfit, requiring complex regularization and extensive data. This project addresses the challenge by employing Pyro, a probabilistic programming framework. Embracing probabilistic perspectives, we aim to enhance reliability, achieve better regularization, and reduce data needs, revolutionizing financial forecasting while focusing on practical applications over intricate theoretical complexities. Our dataset in particular pertains to historical prices of a cryptocurrency (Ethereum).
+We are trying to predict the future closing prices of Ethereum for the next 30 days based on the previous 2.5 years closing prices. Traditional financial forecasting methods tend to overfit, requiring complex regularization and extensive data. This project addresses the challenge by employing Pyro, a probabilistic programming framework. Embracing probabilistic perspectives, we aim to enhance reliability, achieve better regularization, and reduce data needs, revolutionizing financial forecasting while focusing on practical applications over intricate theoretical complexities. Our dataset in particular pertains to historical prices of a cryptocurrency due to their volatile nature(Ethereum).
 
 
 ## Software architecture:
