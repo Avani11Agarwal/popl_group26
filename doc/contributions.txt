@@ -1,6 +1,7 @@
 1.Divye Goel(2021A7PS2908G):-
 Research Lead: Conduct extensive research on Ethereum price prediction models, focusing on machine learning and deep learning techniques.
 Testing Coordination: Oversee and manage local testing components, ensuring their alignment with the software architecture.
+Documentaion Drafting along with Shravan.
 
 2.Shravan Garg (2021A7PS2731G):-
 Probabilistic Programming Integration: Explore and integrate Pyro into the existing models, leveraging its probabilistic programming capabilities.
